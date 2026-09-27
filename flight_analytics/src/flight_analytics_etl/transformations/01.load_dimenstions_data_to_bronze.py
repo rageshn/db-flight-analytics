@@ -1,9 +1,9 @@
 from pyspark import pipelines as dp
 from pyspark.sql.functions import col
 from pathlib import Path
-import importlib.util
+import sys, os
 
-datasets_dir = str(Path(importlib.util.find_spec("flight_analytics").origin).parents[2] / "datasets")
+datasets_dir = sys.path.append(os.path.abspath('../../../datasets'))
 
 
 @dp.table(name="dev_flight_analytics.bronze.aircrafts", table_properties={"quality": "bronze"})
