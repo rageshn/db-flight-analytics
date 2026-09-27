@@ -1,0 +1,114 @@
+aircraft_id,aircraft_model,manufacturer,total_seats,business_seats,economy_seats,first_class_seats,status
+AC0001,Airbus A220-100,Airbus,120,12,108,0,Unknown
+AC0002,Airbus A220-300,Airbus,150,12,138,0,Unknown
+AC0003,Airbus A318-100,Airbus,107,8,99,0,Unknown
+AC0004,Airbus A319-100,Airbus,124,8,116,0,Unknown
+AC0005,Airbus A319neo,Airbus,140,8,132,0,Unknown
+AC0006,Airbus A320-200,Airbus,150,12,138,0,Unknown
+AC0007,Airbus A320neo,Airbus,165,12,153,0,Unknown
+AC0008,Airbus A321-200,Airbus,185,16,169,0,Unknown
+AC0009,Airbus A321neo,Airbus,206,16,190,0,Unknown
+AC0010,Airbus A321XLR,Airbus,180,16,164,0,Unknown
+AC0011,Airbus A330-200,Airbus,246,36,198,12,Unknown
+AC0012,Airbus A330-300,Airbus,277,42,223,12,Unknown
+AC0013,Airbus A330-800,Airbus,257,36,213,8,Unknown
+AC0014,Airbus A330-900,Airbus,287,36,243,8,Unknown
+AC0015,Airbus A340-200,Airbus,239,36,191,12,Unknown
+AC0016,Airbus A340-300,Airbus,277,42,223,12,Unknown
+AC0017,Airbus A340-500,Airbus,293,40,241,12,Unknown
+AC0018,Airbus A340-600,Airbus,326,54,260,12,Unknown
+AC0019,Airbus A350-900,Airbus,325,42,275,8,Unknown
+AC0020,Airbus A350-900ULR,Airbus,161,67,94,0,Unknown
+AC0021,Airbus A350-1000,Airbus,366,56,302,8,Unknown
+AC0022,Airbus A380-800,Airbus,525,76,435,14,Unknown
+AC0023,Boeing 737-700,Boeing,126,8,118,0,Unknown
+AC0024,Boeing 737-800,Boeing,162,12,150,0,Unknown
+AC0025,Boeing 737-900ER,Boeing,178,12,166,0,Unknown
+AC0026,Boeing 737 MAX 7,Boeing,138,8,130,0,Unknown
+AC0027,Boeing 737 MAX 8,Boeing,178,12,166,0,Unknown
+AC0028,Boeing 737 MAX 9,Boeing,193,16,177,0,Unknown
+AC0029,Boeing 737 MAX 10,Boeing,204,16,188,0,Unknown
+AC0030,Boeing 747-400,Boeing,416,76,326,14,Unknown
+AC0031,Boeing 747-8 Intercontinental,Boeing,410,64,338,8,Unknown
+AC0032,Boeing 757-200,Boeing,200,16,184,0,Unknown
+AC0033,Boeing 757-300,Boeing,243,16,227,0,Unknown
+AC0034,Boeing 767-200ER,Boeing,181,24,145,12,Unknown
+AC0035,Boeing 767-300ER,Boeing,218,24,182,12,Unknown
+AC0036,Boeing 767-400ER,Boeing,245,24,209,12,Unknown
+AC0037,Boeing 777-200,Boeing,314,40,258,16,Unknown
+AC0038,Boeing 777-200ER,Boeing,314,40,258,16,Unknown
+AC0039,Boeing 777-200LR,Boeing,317,52,257,8,Unknown
+AC0040,Boeing 777-300,Boeing,368,48,304,16,Unknown
+AC0041,Boeing 777-300ER,Boeing,396,52,336,8,Unknown
+AC0042,Boeing 777-8,Boeing,384,49,327,8,Unknown
+AC0043,Boeing 777-9,Boeing,426,52,366,8,Unknown
+AC0044,Boeing 787-8,Boeing,242,28,202,12,Unknown
+AC0045,Boeing 787-9,Boeing,296,36,248,12,Unknown
+AC0046,Boeing 787-10,Boeing,330,36,282,12,Unknown
+AC0047,Embraer E170,Embraer,72,6,66,0,Unknown
+AC0048,Embraer E175,Embraer,78,12,66,0,Unknown
+AC0049,Embraer E190,Embraer,100,8,92,0,Unknown
+AC0050,Embraer E195,Embraer,116,8,108,0,Unknown
+AC0051,Embraer E190-E2,Embraer,106,12,94,0,Unknown
+AC0052,Embraer E195-E2,Embraer,132,12,120,0,Unknown
+AC0053,Bombardier CRJ200,Bombardier,50,0,50,0,Unknown
+AC0054,Bombardier CRJ700,Bombardier,70,0,70,0,Unknown
+AC0055,Bombardier CRJ900,Bombardier,90,12,78,0,Unknown
+AC0056,Bombardier CRJ1000,Bombardier,100,12,88,0,Unknown
+AC0057,De Havilland Canada Dash 8-100,De Havilland Canada,37,0,37,0,Unknown
+AC0058,De Havilland Canada Dash 8-200,De Havilland Canada,37,0,37,0,Unknown
+AC0059,De Havilland Canada Dash 8-300,De Havilland Canada,50,0,50,0,Unknown
+AC0060,De Havilland Canada Dash 8-400,De Havilland Canada,78,0,78,0,Unknown
+AC0061,ATR 42-600,ATR,48,0,48,0,Unknown
+AC0062,ATR 72-600,ATR,72,0,72,0,Unknown
+AC0063,COMAC ARJ21-700,COMAC,90,8,82,0,Unknown
+AC0064,COMAC C919,COMAC,158,8,150,0,Unknown
+AC0065,COMAC C929,COMAC,280,36,236,8,Unknown
+AC0066,Irkut MC-21-300,Yakovlev,163,16,147,0,Unknown
+AC0067,Sukhoi Superjet 100,Sukhoi,87,8,79,0,Unknown
+AC0068,Mitsubishi SpaceJet M90,Mitsubishi,88,8,80,0,Unknown
+AC0069,Antonov An-148,Antonov,80,8,72,0,Unknown
+AC0070,Antonov An-158,Antonov,99,8,91,0,Unknown
+AC0071,Tupolev Tu-204-100,Tupolev,210,12,198,0,Unknown
+AC0072,Tupolev Tu-214,Tupolev,210,12,198,0,Unknown
+AC0073,Ilyushin Il-96-300,Ilyushin,262,40,206,16,Unknown
+AC0074,Fokker 70,Fokker,80,8,72,0,Unknown
+AC0075,Fokker 100,Fokker,107,8,99,0,Unknown
+AC0076,BAe 146-200,British Aerospace,85,0,85,0,Unknown
+AC0077,Avro RJ85,Avro,85,0,85,0,Unknown
+AC0078,Avro RJ100,Avro,100,0,100,0,Unknown
+AC0079,Saab 340B,Saab,34,0,34,0,Unknown
+AC0080,Saab 2000,Saab,50,0,50,0,Unknown
+AC0081,Dornier 328,Dornier,32,0,32,0,Unknown
+AC0082,Fairchild Dornier 328JET,Fairchild Dornier,32,0,32,0,Unknown
+AC0083,Cessna 208 Caravan,Cessna,9,0,9,0,Unknown
+AC0084,Beechcraft 1900D,Beechcraft,19,0,19,0,Unknown
+AC0085,Embraer EMB-120 Brasilia,Embraer,30,0,30,0,Unknown
+AC0086,Embraer ERJ-135,Embraer,37,0,37,0,Unknown
+AC0087,Embraer ERJ-145,Embraer,50,0,50,0,Unknown
+AC0088,McDonnell Douglas MD-82,McDonnell Douglas,155,12,143,0,Unknown
+AC0089,McDonnell Douglas MD-83,McDonnell Douglas,155,12,143,0,Unknown
+AC0090,McDonnell Douglas MD-88,McDonnell Douglas,142,12,130,0,Unknown
+AC0091,McDonnell Douglas MD-90-30,McDonnell Douglas,153,12,141,0,Unknown
+AC0092,Boeing 717-200,Boeing,106,8,98,0,Unknown
+AC0093,McDonnell Douglas MD-11,McDonnell Douglas,298,48,234,16,Unknown
+AC0094,Airbus A300-600,Airbus,266,24,242,0,Unknown
+AC0095,Airbus A310-300,Airbus,220,18,202,0,Unknown
+AC0096,Boeing 727-200,Boeing,145,12,133,0,Unknown
+AC0097,Lockheed L-1011-500 TriStar,Lockheed,246,36,198,12,Unknown
+AC0098,Harbin Y-12,Harbin Aircraft,17,0,17,0,Unknown
+AC0099,Xian MA60,Xian Aircraft,60,0,60,0,Unknown
+AC0100,Xian MA700,Xian Aircraft,70,0,70,0,Unknown
+AC0101,NAL Saras,National Aerospace Laboratories,19,0,19,0,Unknown
+AC0102,HAL Dornier 228,Hindustan Aeronautics,19,0,19,0,Unknown
+AC0103,Let L-410 Turbolet,Aircraft Industries,19,0,19,0,Unknown
+AC0104,Antonov An-24,Antonov,48,0,48,0,Unknown
+AC0105,Antonov An-26,Antonov,40,0,40,0,Unknown
+AC0106,Ilyushin Il-114-300,Ilyushin,64,0,64,0,Unknown
+AC0107,Comac ARJ21-900,COMAC,105,8,97,0,Unknown
+AC0108,Boeing 737-600,Boeing,108,8,100,0,Unknown
+AC0109,Airbus A330-200F,Airbus,0,0,0,0,Unknown
+AC0110,Boeing 747-8F,Boeing,0,0,0,0,Unknown
+AC0111,Boeing 767-300F,Boeing,0,0,0,0,Unknown
+AC0112,Boeing 777F,Boeing,0,0,0,0,Unknown
+AC0113,ATR 72-600F,ATR,0,0,0,0,Unknown
