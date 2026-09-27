@@ -3,7 +3,7 @@ from pyspark.sql.functions import col
 from pathlib import Path
 import sys, os
 
-datasets_dir = sys.path.append(os.path.abspath('../../../datasets'))
+datasets_dir = "/Volumes/dev_flight_analytics/bronze/operational_data"
 
 
 @dp.table(name="dev_flight_analytics.bronze.aircrafts", table_properties={"quality": "bronze"})
@@ -31,4 +31,11 @@ def load_airports():
 def load_passengers():
     passengers_dataset_path = f"{datasets_dir}/passengers.csv"
     df = spark.read.csv(passengers_dataset_path, header=True, inferSchema=True)
+    return df
+
+
+@dp.table(name="dev_flight_analytics.bronze.flight_prices", table_properties={"quality": "bronze"})
+def load_flight_prices():
+    flight_prices_dataset_path = f"{datasets_dir}/flight_prices.csv"
+    df = spark.read.csv(flight_prices_dataset_path, header=True, inferSchema=True)
     return df

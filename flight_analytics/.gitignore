@@ -2,6 +2,7 @@
 .vscode/
 build/
 dist/
+datasets/
 __pycache__/
 *.egg-info
 .venv/
