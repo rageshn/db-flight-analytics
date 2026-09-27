@@ -2,7 +2,7 @@ from pyspark import pipelines as dp
 from pyspark.sql.functions import col
 from pathlib import Path
 
-datasets_dir = Path(__file__).resolve().parents[3] / "datasets"
+datasets_dir = f"../../../datasets"
 print(datasets_dir)
 
 
